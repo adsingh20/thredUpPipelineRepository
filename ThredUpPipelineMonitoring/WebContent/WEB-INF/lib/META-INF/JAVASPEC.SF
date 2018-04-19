@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: WCWMHp8v6vHqPkOQzvgWPDJa0Kk=
+SHA1-Digest-Manifest: rG+KLspUsP1ZPo5042PNp2tGtNI=
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: com/amazon/redshift/jdbc/Driver.class
+SHA1-Digest: ZRp5BARz0y+xlDraWSFOid7+Yto=
+
+Name: jackson-databind-2.6.6.jar
+SHA1-Digest: OsF/sslPOmySL/r8XIEa7Zjsmnk=
+
+Name: aws-java-sdk-redshift-1.11.118.jar
+SHA1-Digest: FKGbK8n7xMyeotZTWJ9FiD9N6sE=
+
+Name: com/amazon/jdbc/classloader/JarInJarClassLoader.class
+SHA1-Digest: h+wBBRncjY14m+AqEgGYbPlVBeE=
+
+Name: com/amazon/jdbc/classloader/JarInJarStreamHandlerFactory.class
+SHA1-Digest: HeyMH80elNPCm3PYK5gzte7oqDI=
+
+Name: com/amazon/redshift/jdbc/DataSource.class
+SHA1-Digest: tqO5hQBtUaZszc90UPiMPGNrbss=
+
+Name: aws-java-sdk-sts-1.11.118.jar
+SHA1-Digest: ka37gB26GPQ+b5yX3V1o8zxxrD0=
+
+Name: jackson-dataformat-cbor-2.6.6.jar
+SHA1-Digest: XQMlm/bmKJQcsLKAelwRRZbfFCA=
+
+Name: RedshiftJDBCImplementation42.jar
+SHA1-Digest: IdxpVCMLP+SuOosHvT6I7KdkTWg=
+
+Name: com/amazon/redshift/jdbc42/DataSource.class
+SHA1-Digest: cv7ZSDc5op5ZjL6+5Venr4P1ivM=
+
+Name: joda-time-2.8.1.jar
+SHA1-Digest: /WiWXDd8qkvVibkOn3P5O4ox/1g=
+
+Name: jackson-core-2.6.6.jar
+SHA1-Digest: s3IfBLj7HfNT/6itCipjnF/JEbs=
+
+Name: com/amazon/jdbc/classloader/JarInJarStreamHandler.class
+SHA1-Digest: SFtAiFBOUnesvYUmzECn+TSy6J4=
+
+Name: com/amazon/redshift/common/PGCommonDataSource.class
+SHA1-Digest: k2fwndaWbAntGqcNsXJyE7lyLWc=
+
+Name: jackson-annotations-2.6.0.jar
+SHA1-Digest: uTO2O5hlp8rvOkIZI0t1tboMPtw=
+
+Name: httpclient-4.5.2.jar
+SHA1-Digest: z3CixX7gnFuzWP6v3Vx7YSBjktY=
+
+Name: com/amazon/redshift/common/PGClassLoaderSingleton.class
+SHA1-Digest: XJvvl/z8eX5djL34YOtGct77S40=
+
+Name: commons-logging-1.1.3.jar
+SHA1-Digest: UbO020dxeoTTgeERCxPrhRxQRBw=
+
+Name: commons-codec-1.9.jar
+SHA1-Digest: w38TqepwoKBeTrHi1AFD0B2kZCg=
+
+Name: aws-java-sdk-core-1.11.118.jar
+SHA1-Digest: Fc18wXptkSXH7lBNEqSnCoRcR1U=
+
+Name: com/amazon/redshift/jdbc42/Driver.class
+SHA1-Digest: TAwoGOPainnTNZtDr79kNXCr420=
+
+Name: META-INF/services/java.sql.Driver
+SHA1-Digest: xVU+tFMhEeEApm8cMXhn7Nq495E=
+
+Name: httpcore-4.4.4.jar
+SHA1-Digest: x8/88u9fINxXj/pMAxk2+O8MbGM=
+
+Name: com/amazon/jdbc/classloader/JarInJarConnection.class
+SHA1-Digest: vXwLxW8OaE8Wru9Vr+m0dGlFgfU=
+
